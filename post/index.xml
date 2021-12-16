@@ -9,17 +9,59 @@
     <description>Recent content in Posts on Evan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Dec 2021 17:59:53 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 15 Dec 2021 14:47:18 -0800</lastBuildDate>
     
 	<atom:link href="https://eakoc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Absolute Belters</title>
+      <link>https://eakoc.github.io/post/spotify/</link>
+      <pubDate>Wed, 15 Dec 2021 14:47:18 -0800</pubDate>
+      
+      <guid>https://eakoc.github.io/post/spotify/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+           
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>The Brown Bear (CodeCademy)</title>
+      <link>https://eakoc.github.io/post/thebrownbear-codecademy/</link>
+      <pubDate>Wed, 15 Dec 2021 08:58:13 -0800</pubDate>
+      
+      <guid>https://eakoc.github.io/post/thebrownbear-codecademy/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Brown Bears    Brown Bear About Me  The Brown Bear   Introduction Habitat Media   About Brown Bears The brown bear (Ursus arctos) is native to parts of northern Eurasia and North America. Its conservation status is currently Least Concern.
+There are many subspecies within the brown bear species, including the Atlas bear and the Himalayan brown bear.
+Learn More Species  Arctos Collarus Horribilis Nelsoni (extinct)  Features Brown bears are not always completely brown.
+          
+        
+        </description>
+    </item>
+    
+    <item>
       <title>ScheduleOnce Embed test</title>
-      <link>https://eakoc.github.io/post/secondpost/</link>
+      <link>https://eakoc.github.io/post/scheduleonceembed/</link>
       <pubDate>Tue, 14 Dec 2021 17:59:53 -0800</pubDate>
       
-      <guid>https://eakoc.github.io/post/secondpost/</guid>
+      <guid>https://eakoc.github.io/post/scheduleonceembed/</guid>
       <description>
         
           
@@ -36,10 +78,10 @@
     
     <item>
       <title>Youtube Embed test</title>
-      <link>https://eakoc.github.io/post/firstpost/</link>
+      <link>https://eakoc.github.io/post/youtubeembed/</link>
       <pubDate>Tue, 14 Dec 2021 17:58:55 -0800</pubDate>
       
-      <guid>https://eakoc.github.io/post/firstpost/</guid>
+      <guid>https://eakoc.github.io/post/youtubeembed/</guid>
       <description>
         
           
